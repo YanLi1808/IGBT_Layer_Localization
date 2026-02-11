@@ -3,7 +3,7 @@ Pytorch implementation of Paper "Siamese network for insulated gate bipolar tran
 
 ![方法流程图](./workflow.png)
 
-Then change the data path in main.py to train or test.
+Change the data path in main.py to train or test.
 
 To train the model, you can run:
 
