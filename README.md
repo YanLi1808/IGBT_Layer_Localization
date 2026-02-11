@@ -3,9 +3,10 @@ Pytorch implementation of Paper "Siamese network for insulated gate bipolar tran
 
 ![方法流程图](./workflow.png)
 
-Then change the data path `data_dir` in `train.sh` or `test.sh` to train or test.
+Then change the data path in main.py to train or test.
 
-To train the zero-shot model, you can run:
+To train the model, you can run:
 
 ```bash
-sh ./train.sh
+python main.py
+
